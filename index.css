@@ -1,0 +1,13 @@
+#cl{
+    border: 50px solid rgb(44, 158, 130);
+    margin-right: 880px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+#br{
+    Position: relative;
+    bottom: 50px;
+    left: 60px;
+    color: white;
+}
